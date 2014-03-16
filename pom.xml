@@ -9,8 +9,8 @@
 	<packaging>jar</packaging>
 
 	<!-- Artifact Metadata -->
-	<name>XML Configuration</name>
-	<description>Allows to create XML configurations lightning fast.</description>
+	<name>Simple Event Library</name>
+	<description>Allows to easily integrate events into any Java application.</description>
 	<inceptionYear>2014</inceptionYear>
 
 	<!-- License Information -->
