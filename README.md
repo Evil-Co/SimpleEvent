@@ -1,4 +1,4 @@
-Simple Event Library [![Build Status](http://assets.evil-co.com/build/FLOW-MASTER.png)](http://www.evil-co.com/ci/browse/JSE-MASTER)
+Simple Event Library [![Build Status](http://assets.evil-co.com/build/JSE-MASTER.png)](http://www.evil-co.com/ci/browse/JSE-MASTER)
 ====================
 The Simple Event library for Java allows you to quickly integrate a functional
 event system into any Java application.
