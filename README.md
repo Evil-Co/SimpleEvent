@@ -12,6 +12,13 @@ on a method which's first and only argument is the event type to listen for.
 Please refer to the source code for more information on the different options in each
 implementation.
 
+Bug Reporting
+-------------
+
+Please report bugs in our [Bugtracker](https://evilco.atlassian.net/browse/JSE/). If you don't want to wait for them to
+fixed by one of our project members you can also submit a bugfix on GitHub with the pull request feature (please refer
+to the contribution section for more information and notices).
+
 Compiling
 ---------
 
